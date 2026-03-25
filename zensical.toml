@@ -7,11 +7,11 @@
 # It is used in this project to streamline documentation and provide better support for docstring generation.
 
 [project]
-site_name = "Web Mining and Applied NLP"
-site_url = "https://denisecase.github.io/nlp-03-text-exploration/"
-repo_url = "https://github.com/denisecase/nlp-03-text-exploration"
-repo_name = "denisecase/nlp-03-text-exploration"
-site_description = "Web Mining and Applied NLP project documentation"
+site_name = "Web Mining and Applied NLP - Blessing Aganaga"
+site_url = "https://teflxndxn.github.io/nlp-03-text-exploration/"
+repo_url = "https://github.com/teflxndxn/nlp-03-text-exploration"
+repo_name = "teflxndxn/nlp-03-text-exploration"
+site_description = "Web Mining and Applied NLP project by Blessing Aganaga"
 docs_dir = "docs" # source directory for documentation markdown files
 site_dir = "site" # output directory for generated site (ignored by Git; not in repo)
 edit_uri = "edit/main/docs/" # "Edit this page" links (GitHub)
